@@ -41,13 +41,21 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Discover a level of online shopping with Honor Store Android app developed by Honor funs . Easily search, explore and indulge in a range of Honor products, including cutting edge smartphones and stylish accessories. Immerse yourself in the world of technology and fashion featuring devices like Honor 20 Honor 9X, Honor View 20 and Honor 8X – all available within this app. ",
+   "photo1":"https://iili.io/HyDGuYQ.webp"},
+  {"desc2":"Delve into our collection of products designed meticulously to meet your tech requirements.
+Get your hands on the innovations effortlessly – all a few taps away.",
+"photo2":"https://iili.io/HyDGAvV.png"},
+  {"desc3":"Enjoy purchases by registering with your HUAWEI ID.
+Stay informed with real time updates on order tracking and delivery status.",
+"photo3":"https://iili.io/HyDGRyB.png"},
+  {"desc4":"Never miss out on product launches and exclusive discount offers.
+Customize your shopping experience by selecting your home country or region of residence.",
+"photo4":"https://iili.io/HyDGT3x.png"},
+  {"desc5":"Access payment methods and gain insights into return and exchange policies tailored specifically for your chosen country.Take your shopping journey to heights with the Honor Store app – the gateway, to an effortless online retail experience. ",
+"photo5":"https://iili.io/HyDG7TP.png"},
+  {"descd":"Embark, on a shopping experience. Delve into a realm of possibilities select and acquire the latest innovations, from Honor. Get your hands on the blend of convenience, style and cutting edge technology by downloading. Step into a world where everything you need's a click away.",
+"photod":"https://iili.io/HyDGYj1.webp"}
    ]
  
 }
